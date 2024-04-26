@@ -10,15 +10,15 @@
 
 5. https://www.kaggle.com/datasets/kausr25/chatterbotenglish ( huggingface / chatgpt )
 
-6. https://www.kaggle.com/datasets/bitext/training-dataset-for-chatbotsvirtual-assistants
+6. https://www.kaggle.com/datasets/bitext/training-dataset-for-chatbotsvirtual-assistants  ( huggingface / chatgpt )
 
-7. https://www.kaggle.com/datasets/yapwh1208/chatbot-ai-q-and-a
+7. https://www.kaggle.com/datasets/yapwh1208/chatbot-ai-q-and-a ( chatgpt )
 
-8. https://www.kaggle.com/datasets/kreeshrajani/3k-conversations-dataset-for-chatbot
+8. https://www.kaggle.com/datasets/kreeshrajani/3k-conversations-dataset-for-chatbot  ( huggingface )
 
-9. https://www.kaggle.com/datasets/saurabhprajapat/chatbot-training-dataset
+9. https://www.kaggle.com/datasets/saurabhprajapat/chatbot-training-dataset ( chatgpt )
 
-10. https://www.kaggle.com/datasets/projjal1/human-conversation-training-data
+10. https://www.kaggle.com/datasets/projjal1/human-conversation-training-data ( huggingface )
 
 11. https://www.kaggle.com/datasets/hijest/cleaned-data-for-the-chatbot-collected-from-movies
 
