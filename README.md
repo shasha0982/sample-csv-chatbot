@@ -93,3 +93,6 @@
 46. https://www.kaggle.com/datasets/newtonbaba12345/llm-prompt-recovery-data-through-gemini
 
 47. https://www.kaggle.com/datasets/snehilsanyal/oasst1
+
+48. https://www.kaggle.com/datasets/ihelon/prompt2image
+
