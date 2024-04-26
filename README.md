@@ -1,12 +1,12 @@
 # sample-csv-chatbot
 
-1. https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot
+1. https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot ( huggingface model )
 
 2. https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot
 
-3. https://www.kaggle.com/datasets/hijest/cleaned-data-for-the-chatbot-collected-from-movies
+3. https://www.kaggle.com/datasets/hijest/cleaned-data-for-the-chatbot-collected-from-movies ( huggingface model )
 
-4. https://www.kaggle.com/datasets/hassanamin/atis-airlinetravelinformationsystem
+4. https://www.kaggle.com/datasets/hassanamin/atis-airlinetravelinformationsystem ( huggingface model )
 
 5. https://www.kaggle.com/datasets/kausr25/chatterbotenglish
 
