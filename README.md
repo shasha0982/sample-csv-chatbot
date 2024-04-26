@@ -20,27 +20,27 @@
 
 10. https://www.kaggle.com/datasets/projjal1/human-conversation-training-data ( huggingface )
 
-11. https://www.kaggle.com/datasets/hijest/cleaned-data-for-the-chatbot-collected-from-movies
+11. https://www.kaggle.com/datasets/hijest/cleaned-data-for-the-chatbot-collected-from-movies ( huggingface )
 
-12. https://www.kaggle.com/datasets?search=chatbot&sort=votes&page=3#:~:text=Glaive%20Python%20Code,arrow_drop_up
+12. https://www.kaggle.com/datasets/thedevastator/glaive-python-code-qa-dataset ( chatgpt )
 
-13. https://www.kaggle.com/datasets/aslanahmedov/star-wars-chat-bot
+13. https://www.kaggle.com/datasets/aslanahmedov/star-wars-chat-bot ( huggingface )
 
-14. https://www.kaggle.com/datasets/therealsampat/intents-for-first-aid-recommendations
+14. https://www.kaggle.com/datasets/therealsampat/intents-for-first-aid-recommendations ( huggingface )
 
-15. https://www.kaggle.com/datasets/thedevastator/synthetic-therapy-conversations-dataset
+15. https://www.kaggle.com/datasets/thedevastator/synthetic-therapy-conversations-dataset ( huggingface )
 
-16. https://www.kaggle.com/datasets/antonkozyriev/unity3d-faq
+16. https://www.kaggle.com/datasets/antonkozyriev/unity3d-faq ( huggingface )
 
-17. https://www.kaggle.com/datasets/nupurgopali/depression-data-for-chatbot
+17. https://www.kaggle.com/datasets/nupurgopali/depression-data-for-chatbot ( chatgpt )
 
-18. https://www.kaggle.com/datasets/thedevastator/viggo-video-game-chatbot-dataset
+18. https://www.kaggle.com/datasets/thedevastator/viggo-video-game-chatbot-dataset  ( huggingface )
 
-19. https://www.kaggle.com/datasets/konradb/chatbot-dataset-dureader
+19. https://www.kaggle.com/datasets/konradb/chatbot-dataset-dureader ( huggingface )
 
-20. https://www.kaggle.com/datasets/konradb/chatbot-dataset-openbookqa
+20. https://www.kaggle.com/datasets/konradb/chatbot-dataset-openbookqa ( chatgpt )
 
-21. https://www.kaggle.com/datasets/abbbhishekkk/faq-datasets-for-chatbot-training
+21. https://www.kaggle.com/datasets/abbbhishekkk/faq-datasets-for-chatbot-training 
 
 22. https://www.kaggle.com/datasets/thedevastator/multi-language-dialogue-dataset-for-gpt-4
 
